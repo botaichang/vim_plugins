@@ -337,7 +337,11 @@ Copyright (C) 2006 Free Software Foundation, Inc.
 This config.status script is free software; the Free Software Foundation
 gives unlimited permission to copy, distribute and modify it."
 
+<<<<<<< HEAD
 ac_pwd='/home/mli/.vim/vim_plugins_pkgs/ctags-5.8'
+=======
+ac_pwd='/home/melchior/Downloads/vim_plugins/ctags-5.8'
+>>>>>>> 2cd9fc0de9019dc7e04dd4d67832aaff6f275073
 srcdir='.'
 # If no file are specified by the user, then we need to provide default
 # value.  By we need to know if files were specified by the user.
