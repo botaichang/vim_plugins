@@ -1,14 +1,5 @@
 let g:netrw_dirhistmax  =10
-<<<<<<< HEAD
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/home/mli/Documents/pynn/py_src/layers'
-let g:netrw_dirhist_2='/home/mli/opencv-2.4.13/modules/core/src'
-let g:netrw_dirhist_3='/home/mli/Documents/workspace/analysis/code/basic'
-let g:netrw_dirhist_4='/home/mli/Documents/workspace/analysis/code/basic/cfgs'
-let g:netrw_dirhist_5='/home/mli/Documents/workspace/analysis/code/basic'
-let g:netrw_dirhist_6='/home/mli/Documents/ncnn/examples/CMakeFiles'
-=======
-let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_cnt =3
 let g:netrw_dirhist_1='/home/melchior/Documents/c++_renzhenxue'
 let g:netrw_dirhist_2='/usr/lib/llvm-3.5/lib'
->>>>>>> 2cd9fc0de9019dc7e04dd4d67832aaff6f275073
+let g:netrw_dirhist_3='/home/mli/Documents/cplusplus_basic/c__deep012_operator_assign'
