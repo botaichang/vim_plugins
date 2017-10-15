@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_cnt =4
 let g:netrw_dirhist_1='/home/melchior/Documents/c++_renzhenxue'
 let g:netrw_dirhist_2='/usr/lib/llvm-3.5/lib'
 let g:netrw_dirhist_3='/home/mli/Documents/cplusplus_basic/c__deep012_operator_assign'
+let g:netrw_dirhist_4='/home/mli/Documents/cplusplus_basic/c__deep014_length_nonconst_array/include'
