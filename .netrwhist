@@ -1,6 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_cnt =7
 let g:netrw_dirhist_1='/home/melchior/Documents/c++_renzhenxue'
 let g:netrw_dirhist_2='/usr/lib/llvm-3.5/lib'
 let g:netrw_dirhist_3='/home/mli/Documents/cplusplus_basic/c__deep012_operator_assign'
 let g:netrw_dirhist_4='/home/mli/Documents/cplusplus_basic/c__deep014_length_nonconst_array/include'
+let g:netrw_dirhist_5='/usr/include/c++/4.8'
+let g:netrw_dirhist_6='/home/mli/Documents/cplusplus_basic/c__deep017_inheritance/include'
+let g:netrw_dirhist_7='/home/mli/Documents/cplusplus_basic/c__deep017_inheritance/src'
